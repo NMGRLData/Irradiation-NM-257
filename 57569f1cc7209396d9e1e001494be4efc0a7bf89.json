@@ -1,0 +1,10 @@
+{
+    "deflections": {},
+    "gains": {},
+    "spectrometer": {
+        "extraction_lens": 24.9989,
+        "ysymmetry": -1.00104,
+        "zfocus": 50.0994,
+        "zsymmetry": -20.4176
+    }
+}
